@@ -6,7 +6,7 @@
 
 # hi, i'm tanya ˚ ༘ ⋆｡♡˚
 
-*ECE grad • automotive engineer by day • aspiring SDE • chaotic creative*
+*ECE grad • chaotic creative*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C9A0DC&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+%E2%9C%A8;C%2B%2B+%7C+Python+%7C+Java+%7C+DSA;currently+on+a+side+quest+%E2%86%92+SDE+roles+%F0%9F%8C%99;open+to+opportunities+%F0%9F%92%8C)](https://git.io/typing-svg)
 
@@ -59,13 +59,6 @@ tanya = {
 ---
 
 
-### ✦ github stats
-
-<div align="center">
-
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanya004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A0DC&icon_color=C9A0DC)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanya004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C9A0DC)
 
 </div>
 
@@ -104,6 +97,5 @@ tanya = {
 
 *thanks for visiting my little corner of the internet* 🌙
 
-![visitor count](https://komarev.com/ghpvc/?username=tanya004&color=C9A0DC&style=flat&label=visitors)
 
 </div>
