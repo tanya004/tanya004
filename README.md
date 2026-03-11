@@ -18,7 +18,7 @@
 
 ### ✦ about me
 
-- 🎓 B.E in ECE from VTU — *where I accidentally fell in love with code*
+- 🎓 B.E in ECE from VTU 
 - 🚗 Currently @ **Aisin Automotive** working on pothole detection (yes, literally making roads smarter)
 - 🌱 Actively transitioning into **SDE-1 roles** — DSA grind is real
 - 🌙 I write code the same way I read fantasy novels — deeply invested, slightly unhinged
@@ -58,16 +58,6 @@ tanya = {
 
 ---
 
-### ✦ featured projects
-
-| project | what it does | stack |
-|---|---|---|
-| 🔤 [spellCheck](https://github.com/tanya004/spellCheck) | spell checker using Trie for fast word lookup | C++, DSA |
-| 🚤 [Fisherman Rescue](https://github.com/tanya004/Fisherman-Rescue-at-OceanBorders) | GPS + RF alert system for maritime border safety | Embedded, RF, GPS |
-| 🪞 [IoT Smart Mirror](https://github.com/tanya004/IoT-based-smart-mirror) | Raspberry Pi mirror with weather, RFID & Bluetooth | Python, IoT, APIs |
-| 🚗 [Auto Door System](https://github.com/tanya004/automatic-door-system) | automated door system | C++ |
-
----
 
 ### ✦ github stats
 
