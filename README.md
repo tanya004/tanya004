@@ -1,14 +1,10 @@
 <div align="center">
-
-```
 　　　 ੈ✩‧₊˚　　　　　　　　　　　　　　　　ੈ✩‧₊˚
-```
 
 # hi, i'm tanya ˚ ༘ ⋆｡♡˚
+*ECE grad • chaotic creative • backend AI explorer*
 
-*ECE grad • chaotic creative*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C9A0DC&center=true&vCenter=true&width=500&lines=building+things+that+actually+work+%E2%9C%A8;C%2B%2B+%7C+Python+%7C+Java+%7C+DSA;currently+on+a+side+quest+%E2%86%92+SDE+roles+%F0%9F%8C%99;open+to+opportunities+%F0%9F%92%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C9A0DC&center=true&vCenter=true&width=500&lines=building+AI+pipelines+that+actually+work+%E2%9C%A8https://github.com/tanya004/tanya004/blob/main/README.md;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI;exploring+LLM+orchestration+%26+agentic+flows+%F0%9F%A4%96;open+to+backend+%2B+AI+engineering+roles+%F0%9F%92%8C)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,13 +13,13 @@
 <img align="right" width="180" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ### ✦ about me
-
-- 🎓 B.E in ECE from VTU 
+- 🎓 B.E in ECE from VTU
 - 🚗 Currently @ **Aisin Automotive** working on pothole detection (yes, literally making roads smarter)
-- 🌱 Actively transitioning into **SDE-1 roles** — DSA grind is real
+- 🤖 Exploring **backend AI roles** — building AI pipelines, orchestration systems, and agentic workflows
+- 🌱 Actively transitioning into **SDE-1 / Backend Engineer** roles — DSA grind is real
 - 🌙 I write code the same way I read fantasy novels — deeply invested, slightly unhinged
 - 📍 Bangalore, India
-- 💌 Open to exciting SDE opportunities!
+- 💌 Open to backend + AI engineering opportunities!
 
 ---
 
@@ -31,14 +27,17 @@
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -48,27 +47,33 @@
 
 ```python
 tanya = {
-    "languages"  : ["C++", "Python", "Java", "SQL", "Embedded C"],
-    "concepts"   : ["DSA", "OOP", "REST APIs", "System Design (basics)", "CI/CD"],
-    "tools"      : ["Git", "Linux", "AWS/GCP", "Arduino", "Raspberry Pi"],
-    "currently"  : "surviving the DSA grind for SDE interviews 🌙",
-    "looking_for": "SDE-1 roles — let's build something cool together ✨"
+    "languages"  : ["Java", "Python", "C++", "SQL", "Embedded C"],
+    "backend"    : ["Spring Boot", "FastAPI", "REST APIs", "JWT", "RBAC"],
+    "ai_stuff"   : ["AI pipelines", "LLM orchestration", "Gemini API",
+                    "RAG basics", "agentic workflows", "prompt engineering"],
+    "infra"      : ["Docker", "AWS/GCP", "Nginx", "GitHub Actions", "Supabase"],
+    "concepts"   : ["DSA", "OOP", "System Design (basics)", "CI/CD"],
+    "currently"  : "building AI-powered backends & surviving SDE interviews 🌙",
+    "looking_for": "backend + AI roles — let's build something cool together ✨"
 }
 ```
 
+---
 
-</div>
+### ✦ what i'm exploring rn
+🤖 AI pipelines      → chaining LLMs, building context-aware backends
+🔗 orchestration     → LangChain, tool use, agentic flows
+⚙️  backend systems   → Java Spring Boot + async APIs (WebFlux)
+📄 recent project    → AI-powered resume screener (Gemini + Spring Boot + WebFlux)
+🌱 next up           → deeper RAG, vector DBs, multi-agent systems
 
 ---
 
 ### ✦ when i'm not coding
-
-```
 📚 reading fantasy novels & manga     → current obsession: anything with magic systems
 🎮 playing RPG games                  → yes i have 200+ hours in at least one game
 🎨 painting & drawing                 → mostly fantasy art, occasionally my feelings
 🎵 music always playing               → coding without music is illegal in my opinion
-```
 
 ---
 
@@ -87,12 +92,8 @@ tanya = {
 ---
 
 <div align="center">
-
-```
 　　　 ੈ✩‧₊˚　　　　　　　　　　　　　　　　ੈ✩‧₊˚
-```
 
 *thanks for visiting my little corner of the internet* 🌙
-
 
 </div>
