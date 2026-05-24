@@ -14,7 +14,7 @@
 
 ### ✦ about me
 - 🎓 B.E in ECE from VTU
-- 🚗 Currently @ **Aisin Automotive** working on pothole detection (yes, literally making roads smarter)
+- 🚗 Currently @ **Aisin Automotive** 
 - 🤖 Exploring **backend AI roles** — building AI pipelines, orchestration systems, and agentic workflows
 - 🌱 Actively transitioning into **SDE-1 / Backend Engineer** roles — DSA grind is real
 - 🌙 I write code the same way I read fantasy novels — deeply invested, slightly unhinged
