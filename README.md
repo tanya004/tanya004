@@ -1,5 +1,5 @@
 <div align="center">
-　　　 ੈ✩‧₊˚　　　　　　　　　　　　　　　　ੈ✩‧₊˚
+　 ੈ✩‧₊˚　　　　　　　　　　　　　　　　ੈ✩‧₊˚
 
 # hi, i'm tanya ˚ ༘ ⋆｡♡˚
 *ECE grad • chaotic creative • backend AI explorer*
