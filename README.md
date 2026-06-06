@@ -1,7 +1,7 @@
 <div align="center">
  ੈ✩‧₊˚　　　　　　　　　　　　　　　　ੈ✩‧₊˚
 
-# hi, i'm tanya ˚ ༘ ⋆｡♡˚
+#  hi, i'm tanya ˚ ༘ ⋆｡♡˚
 *ECE grad • chaotic creative • backend AI explorer*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=C9A0DC&center=true&vCenter=true&width=500&lines=building+AI+pipelines+that+actually+work+%E2%9C%A8https://github.com/tanya004/tanya004/blob/main/README.md;Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI;exploring+LLM+orchestration+%26+agentic+flows+%F0%9F%A4%96;open+to+backend+%2B+AI+engineering+roles+%F0%9F%92%8C)](https://git.io/typing-svg)
@@ -94,6 +94,6 @@ tanya = {
 <div align="center">
 　 ੈ✩‧₊˚　　　　　　　　　　　　　　　　ੈ✩‧₊˚
 
-*thanks for visiting my little corner of the internet* 🌙
+ *thanks for visiting my little corner of the internet* 🌙
 
 </div>
