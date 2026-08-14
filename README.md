@@ -14,10 +14,10 @@
 
 ### ✦ about me
 - 🎓 B.E in ECE from VTU
-- 🚗 Currently @ **Unemployed** looking to transition into a sde/product focused role
-- 🤖 Exploring **backend AI roles** — building AI pipelines, orchestration systems, and agentic workflows
-- 🌱 Actively transitioning into **SDE-1 / Backend Engineer** roles — DSA grind is real
-- 🌙 I write code the same way I read fantasy novels — deeply invested, slightly unhinged
+- 🚗 Currently - **Unemployed** - looking to transition into a sde/product focused role
+- 🤖 Exploring **backend AI roles** - building AI pipelines, orchestration systems, and agentic workflows
+- 🌱 Actively transitioning into **SDE-1 / Backend Engineer / Product Management** roles - DSA grind is real
+- 🌙 I write code the same way I read fantasy novels - deeply invested, slightly unhinged
 - 📍 Bangalore, India
 - 💌 Open to backend + AI engineering opportunities!
 
